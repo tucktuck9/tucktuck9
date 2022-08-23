@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tucktuck9
-- 👀 I’m interested in pretty much anything once can program.
+- 👀 I’m interested in pretty much anything one can program.
 - 🌱 I’m currently learning how to create libraries on PyPi.
 - 📫 How to reach me ...
 
