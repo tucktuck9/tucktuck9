@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tucktuck9
 - 👀 I’m interested in pretty much anything one can program.
-- 🌱 I’m currently learning how to create libraries on PyPi.
+- 🌱 I’m currently learning about Dockerizing apps and Kubernetes.
 - 📫 How to reach me ...
 
 <div id="badges">
