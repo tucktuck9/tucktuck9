@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tucktuck9
-- 👀 I’m interested in pretty much anything one can program.
-- 🌱 I’m currently learning about real-time online inference engines, open-source AI models, NLPs, RAG methodologies.
+- 👀 I’m interested in pretty much anything one can program with Python.
+- 🌱 I’m currently learning about and/or building real-time online inference engines, open-source AI models, NLPs, RAG systems.
 - 📫 How to reach me ...
 
 <div id="badges">
